@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Samuel W.R. Tieman, but most people call me Sam. I’m an ethical hacker and cybersecurity enthusiast.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+On this blog, I share posts about things I’m learning in the field of cybersecurity—ranging from different techniques for getting an initial foothold to detailed write-ups of Capture The Flag (CTF) challenges I’ve completed. This space serves both as a learning journal for myself and a reource for others interested in offensive security. 
